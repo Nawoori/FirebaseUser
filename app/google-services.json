@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "114793367282",
+    "firebase_url": "https://fir-user-c7126.firebaseio.com",
+    "project_id": "fir-user-c7126",
+    "storage_bucket": "fir-user-c7126.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114793367282:android:0bbdb81c6b1c9f44",
+        "android_client_info": {
+          "package_name": "com.nawoori.android.firebaseuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114793367282-a73en5r67o5lt2lj9ksb4l6ktknmeh6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nawoori.android.firebaseuser",
+            "certificate_hash": "a731d341edfd89c29183b7586be300d9b6cd877c"
+          }
+        },
+        {
+          "client_id": "114793367282-ibmv4bib3leg1bvjj7niga879jmg89rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKxqs_ogPOZAAMgNi2nMZdhfGMB6UgSZ4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114793367282-ibmv4bib3leg1bvjj7niga879jmg89rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
